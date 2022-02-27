@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties prayers which he used in time of his sufferings. Delivered to Doctor Juxon, Bishop of London, immediately before his death, with his severall speeches to his children, (viz.) the Duke of Glocester, and the Lady Elizabeth. And a letter from the Prince to the King his father.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78962</idno>
+            <idno type="STC">Wing C2539</idno>
+            <idno type="STC">Thomason E1317_2</idno>
+            <idno type="STC">ESTC R209047</idno>
+            <idno type="EEBO-CITATION">99867955</idno>
+            <idno type="PROQUEST">99867955</idno>
+            <idno type="VID">169764</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169764)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 176:E1317[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties prayers which he used in time of his sufferings. Delivered to Doctor Juxon, Bishop of London, immediately before his death, with his severall speeches to his children, (viz.) the Duke of Glocester, and the Lady Elizabeth. And a letter from the Prince to the King his father.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>anno. Dom. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>By King Charles I and Prince Charles. Material first printed in William Dugard's edition of the Eikon basilike.</note>
+                  <note>"This is presumably John Playford's edition of the four Prayers, Letter, and Relations for which he entered in the Stationers' Register on 2 April 1649" -- Madan.</note>
+                  <note>Annotation on Thomason copy: "Aprill 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Elizabeth, --  Princess of England, 1635-1650 --  Early works to 1800.</term>
+               <term>Henry, --  Duke of Gloucester, 1640-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169764:1" rendition="simple:additions"/>
+            <p>HIS Majeſties PRAYERS Which He uſed in time of h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> SUFFERINGS. Delivered To Doctor <hi>Juxon,</hi> Biſhop <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>London,</hi> immediately before his Death, With his ſeverall Speeches to hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Children, <hi>(Viz.)</hi> the Duke of <hi>Gloceſter,</hi> and the Lady <hi>Elizabeth.</hi>
+            </p>
+            <p>And A Letter from the Prince to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King his Father.</p>
+            <p>
+               <add>Aprill 16</add> Printed at <hi>London, Anno. Dom.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:169764:2"/>
+            <pb facs="tcp:169764:2"/>
+            <head>A Prayer in time of Captivity.</head>
+            <p>O Powerfull and Eternall God! to whom nothing is ſo great that it may reſiſt; or ſo ſmall, that it is contemned; look upon My miſery with thine eye of Mercy, &amp; let thy in<g ref="char:EOLhyphen"/>finite power vouch-ſafe to limit out ſome proportion of deliverance unto Me, as to thee ſhall ſeeme moſt con<g ref="char:EOLhyphen"/>venient; let not injurie, O Lord, tri<g ref="char:EOLhyphen"/>umph over Me; and let My faults by thy hand be corrected; and make not My unjuſt Enemies be Miniſters of thy Juſtice: But yet My God, if in thy wiſedome, this be the apteſt cha<g ref="char:EOLhyphen"/>ſtiſement for My unexcuſable tranſ<g ref="char:EOLhyphen"/>greſſions; if this ingratfull bondage the fitteſt for My over-high deſires; if the pride of My (not enough hum<g ref="char:EOLhyphen"/>bled) heart be thus to be broken, O Lord, I yield unto Thy will, and
+<pb facs="tcp:169764:3"/>cheerfully imbrace what ſorrow Thou wilt have Me ſuffer: Onely thus much let Me crave of Thee (let My craving O Lord, be accepted of ſince it even proceeds from Thee) that by Thy goodneſſe which is Thy ſelfe, Thou wilt ſuffer ſome beame of Thy Majeſty ſo to ſhine in My minde, that I, who in My greateſt af<g ref="char:EOLhyphen"/>flictions acknowledge it My Nobleſt Title to be thy Creature, may ſtill depend confidently on Thee. Let Calamity be the exerciſe, but not the overthrow of My vertue. O let not their prevailing power be to my de<g ref="char:EOLhyphen"/>ſtruction. And if it be Thy will that they more and more vex Me with puniſhment, yet, O Lord, never let their wickedneſſe have ſuch a hand, but that I may ſtill carry a pure mind and ſtedfaſt reſolution ever to ſerve Thee, without feare or preſumption, yet with that humble confidence which may beſt pleaſe Thee; ſo that
+<pb facs="tcp:169764:3"/>at the laſt I may come to Thy eter<g ref="char:EOLhyphen"/>nall Kindome, through the Merits of thy Son our alone Saviour Ieſus Chriſt. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>Another PRAYER.</head>
+            <p>ALmighty and moſt mercifull Father, looke down upon Me Thy unworthy ſervant, who here proſtrare My ſelfe at the Foot-ſtool of Thy Throne of Grace, but looke upon Me, O Father, through the Me<g ref="char:EOLhyphen"/>ditation and in the Merits of Jeſus Chriſt, in whom thou art onely well pleaſed; for of my ſelfe I am not wor<g ref="char:EOLhyphen"/>thy to ſtand before Thee, or to ſpeak with my uncleane lips to Thee moſt holy and eternall God; for as in ſin I was conceived and borne, ſo likewiſe I have broken all thy Command<g ref="char:EOLhyphen"/>ments by My ſinfull motions, unclean thoughts, evill words, and wicked works; omiting many duties I ought, todo, &amp; committing many vices which
+<pb facs="tcp:169764:4"/>thou haſt forbiden under pain of thy heavy diſpleaſure: as for My ſins, O Lord, they are innumerable; where<g ref="char:EOLhyphen"/>fore I ſtand here liable to all the mi<g ref="char:EOLhyphen"/>ſeries in this life, and everlaſting tor<g ref="char:EOLhyphen"/>ments in that to come, if Thou ſhoul<g ref="char:EOLhyphen"/>deſt deale with Me according to My deſerts. I confeſſe O Lord, that it is thy mercy (which endureth for ever) and Thy compaſſion (which never fails) which is the cauſe that I have not been long ago conſumed: but with Thee there is mercy and plenteous Redemption; in the multitude ther<g ref="char:EOLhyphen"/>fore of Thy mercies, and by the me<g ref="char:EOLhyphen"/>rits of Jeſus Chriſt, I intreat Thy di<g ref="char:EOLhyphen"/>vine Majeſtie, that thou wouldſt not enter into judgement with Thy ſer<g ref="char:EOLhyphen"/>vant, nor be extreame to mark what is done amiſſe, but be thou mercifull unto Me, and waſh away all My ſins with that precious bloud that My Saviour ſhed for Me. And I beſeech Thee, O Lord, not only to waſh a<g ref="char:EOLhyphen"/>way
+<pb facs="tcp:169764:4"/>all My ſins, but alſo to purge My heart by thy holy Spirit, from the droſſe of My naturall corruption; and as thou doſt adde daies to My life, ſo good Lord, I beſeech thee, to adde repentance to my dayes, that when I have paſt this mortall life, I may be partaker of thy everlaſting Kingdome, through the Merits of Jeſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer by Confeſſion, made in and for the time of affliction.</head>
+            <p>ALmighty and moſt mercifull Father, as it is only Thy good<g ref="char:EOLhyphen"/>neſſe that admits of our imperfect Prayers, and the knowledge that Thy mercies are infinite, which can give us any hope of thy accepting or granting them; ſo it is our bounden and neceſſary duty to confeſſe our ſinnes freely unto Thee; and of all men living, I have moſt need, moſt
+<pb facs="tcp:169764:5"/>reaſon ſo to do, no man having bin ſo much obliged by Thee, no man more grievouſly offending Thee: that de<g ref="char:EOLhyphen"/>gree of knowledge which thou haſt given Me, adding likewiſe to the guilt of My tranſgreſſions. For was it through ignorance, that I ſuffered innocent bloud to be ſhed by a falſe pretended way of juſtice? or that I permitted a wrong way of Thy wor<g ref="char:EOLhyphen"/>ſhip, to be ſet up in <hi>Scotland?</hi> And injured the Biſhops in <hi>England?</hi> O no; but with ſhame and griefe I con<g ref="char:EOLhyphen"/>feſſe, that I therein followed the per<g ref="char:EOLhyphen"/>ſwaſions of worldly wiſedome, for<g ref="char:EOLhyphen"/>ſaking the dictates of a right infor<g ref="char:EOLhyphen"/>med Conſcience. Wherefore, O Lord, I have no excuſe to make, no hope left, but in the multitude of thy mer<g ref="char:EOLhyphen"/>cies; for I know My repentance is weake, and My prayers faulty: Grant therefore mercifull Father, ſo to ſtrengthen My repentance, and a<g ref="char:EOLhyphen"/>mend My prayers, that Thou mayeſt
+<pb facs="tcp:169764:5"/>cleare the way for Thine owne mer<g ref="char:EOLhyphen"/>cies, to which O let thy Juſtice at laſt give place, putting a ſpeedy end to My deſerved afflictions. In the mean time give Me patience to endure Conſtancy againſt temptations, and a diſcerning Spirit, to chooſe what is beſt for Thy Church and people, which Thou haſt committed to My Charge. Grant this, O moſt merci<g ref="char:EOLhyphen"/>full Father, for Thy Son Jeſus Chriſts ſake our only Saviour. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer in time of iminent Danger</head>
+            <p>O Moſt mercifull Father, though My ſins are ſo many and grie<g ref="char:EOLhyphen"/>vous, that I may rather expect the effects of Thy anger, than ſo great a deliverance, as to free Me from My preſent great dangers; yet ô Lord, ſince Thy mercies are over all thy works, and thou never faileſt to re<g ref="char:EOLhyphen"/>lieve all thoſe who with humble and unfained repentance come to Thee
+<pb facs="tcp:169764:6"/>for ſuccour, it were to multiply, not diminiſh My tranſgreſſions, to diſpair of thy heavenly favour: wherefore I humbly deſire Thy Divine Majeſty, that Thou wilt not onely pardon all My ſins, but alſo free me out of the hands, and protect Me from the ma<g ref="char:EOLhyphen"/>lice of My cruell Enemies. But if thy wrath againſt My hanious offences will not otherwaies be ſatisfied, then by ſuffering Me to fall under my pre<g ref="char:EOLhyphen"/>ſent afflictions, Thy will be done, yet with humble importunity, I do, and ſhall ever leave to implore the aſſiſt<g ref="char:EOLhyphen"/>ance of thy heavenly Spirit, that My cauſe, as I am Thy Vicegerent may not ſuffer through my weakneſſe, want of courage. O Lord ſo ſtreng<g ref="char:EOLhyphen"/>then and enlighten all the faculties of My minde, that with clearneſs I may ſhew forth thy Truth, and manfully endure this bloudy Tryall, that ſo My ſufferings here may not only glorifie Thee, but likewiſe be a furtherance
+<pb facs="tcp:169764:6"/>to My ſalvation hereafter. Grant this, ô mercifull Father, for his ſake who ſuffered for Me, even Jeſus Chriſt the Righteous. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <head>A Copy of a Letter which was ſent from the PRINCE to the KING; Dated from the <hi>Hague Jan.</hi> 23. 1648.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving no means to come to the knowledge of your Majeſties pre<g ref="char:EOLhyphen"/>ſent condition. but ſuch as I receive from the Prints, or (which is as un<g ref="char:EOLhyphen"/>certain) report, I have ſent this bea<g ref="char:EOLhyphen"/>rer <hi>Seamour</hi> to wait upon your Maje<g ref="char:EOLhyphen"/>ſty, <hi>&amp;</hi> to bring me an account of it: that I may withall aſſure your Majeſtie, I do not onely pray for your Majeſtie accor<g ref="char:EOLhyphen"/>ding to my Duty: but ſhall alwaies be ready to doe all which ſhall be in my
+<pb facs="tcp:169764:7"/>power, to deſerve that bleſſing which I now humbly beg of your Majeſtie upon</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Majeſties moſt humble and moſt o<g ref="char:EOLhyphen"/>bedient Son and ſervant <hi>CHARLS.</hi>
+               </signed>
+               <dateline>Hague <date>Jan. 23. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="document">
+            <head>The Subſcription was thus, For the King.</head>
+            <opener>
+               <dateline>
+                  <date>Munday 29 January, 1648.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>A true Relation of the RINGS Speech to the Lady Elizabeth, and the Duke of Gloceſter, the day before his Death,</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">H</seg>Is Children being come to meet Him, He firſt gave His bleſſing to the Lady <hi>Elizabeth,</hi> and bad her remember to tell her brother <hi>Iames,</hi> when ever ſhee ſhould ſee him, That it was his Fa<g ref="char:EOLhyphen"/>thers laſt deſire, that he ſhould no more looke upon <hi>Charls</hi> as his eldeſt
+<pb facs="tcp:169764:7"/>brother onely, but be obedient unto him, as his Sovereign, and that they ſhould love one another, and for<g ref="char:EOLhyphen"/>give their Fathers enemies. Then ſaid the King to her, Sweet-heart youl forget this: No (ſaid ſhe) I ſhall never forget it while I live: and pouring forth abundance of Tears, promiſed Him to write downe the particulars.</p>
+            <p>Then the King taking the Duke of <hi>Gloceſter</hi> upon His knee, ſaid, Sweet heart, now they will cut off thy Fa<g ref="char:EOLhyphen"/>thers Head, (upon which words the Child looked very ſtedfaſtly on him) Mark Child what I ſay, They will cut off my Head, and perhaps make thee a King: But mark what I ſay, You muſt not be a King, ſo long as your brother <hi>Charls</hi> and <hi>Iames</hi> doe live. For they will cut off your Bro<g ref="char:EOLhyphen"/>thers heads (when they can catch them) and cut off thy head too at the laſt: and therefore I charge you, do not be made a King by them: At
+<pb facs="tcp:169764:8"/>which the Child ſighing, ſaid, I will be torn in peeces firſt. Which falling ſo unexpectedly from one ſo young, it made the King rejoyce exceedingly</p>
+         </div>
+         <div type="document">
+            <head>Another Relation from the Lady Eli<g ref="char:EOLhyphen"/>zabeths own Hand.</head>
+            <p>WHat the King ſaid to me the 29 of Janua. 1648. being the laſt time I had the happineſſe to ſee Him, He told me, He was glad I was come, and although he had not time to ſay much, yet ſomewhat he had to ſay to me, which he had not to ano<g ref="char:EOLhyphen"/>ther, or leave in writing becauſe He feared their cruelty was ſuch, as that they would not have permitted Him to write to me. He wiſhed me not to grieve and torment my ſelfe for Him, for that would be a glorious death that He ſhould die, it being for the Laws and Liberties of this Land, and for maintaining the true Prote<g ref="char:EOLhyphen"/>ſtant Religion. He bid me read Bi<g ref="char:EOLhyphen"/>ſhop <hi>Andrews</hi> Sermons, <hi>Hockers Ec<g ref="char:EOLhyphen"/>cleſiaſticall Policie,</hi> and Biſhop <hi>Lauds</hi>
+               <pb facs="tcp:169764:8"/>Book againſt <hi>Fiſher,</hi> which would ground me againſt Popery. He told me he had forgiven all his Enemies, and hoped God would forgive them alſo, and commanded Us, and all the reſt of my Brothers and Siſters to forgive them. He bid me tell my Mo<g ref="char:EOLhyphen"/>ther, that His thoughts had never ſtrayed from Her, and that His love ſhould be the ſame to the laſt. With<g ref="char:EOLhyphen"/>all He commanded me and my Bro<g ref="char:EOLhyphen"/>ther to be obedient to Her, and bid me ſend His bleſſing to the reſt of my Brothers and Siſters, with commen<g ref="char:EOLhyphen"/>dation to all His friends: ſo after He had given me His bleſſing I tooke my leave.</p>
+            <p>Further, He commanded Us all to forgive thoſe people, but never to truſt them, for they had been moſt falſe to Him, and to thoſe that gave them power, and he feared alſo to their own ſoules, and deſired me not to grieve for Him, for he ſhould die a Martyr, And that he doubted not
+<pb facs="tcp:169764:9"/>but the Lord would ſettle His Throne upon His Son, and that we ſhould be all happier, than we could have expected to have been, if he had lived: With many other things, which at preſent I cannot remember.</p>
+            <closer>
+               <signed>ELIZABETH.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>Another Relation from the Lady Eli<g ref="char:EOLhyphen"/>zabeth.</head>
+            <p>THe King ſaid to the Duke of <hi>Gloceſter,</hi> that he would ſay no<g ref="char:EOLhyphen"/>thing to him but what was for the good of his ſoule: He told him, that He heard that the Army intended to make him King, but it was a thing not for him to take upon him, if he re<g ref="char:EOLhyphen"/>garded the welfare of his ſoul, for he had two Brothers before him, and therefore commanded him upon His bleſſing, never to accept of it, unleſſe it redounded lawfully upon him and commanded him to feare the Lord and he would provide for him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
